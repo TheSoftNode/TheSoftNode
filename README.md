@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 👀I'm interested in all web and data technologies.
+
 - 🔭 I’m currently working on a **SaaS project** using **Django**, a **full-stack fundraising app** with **NestJS**, **React**, and **Clarity** smart contract language, and **SoftLearn**, a Learning Management System.
   
 - 🌱 I’m exploring **Web3**, **blockchain**, **smart contracts**, and **Ethereum** technologies with **Clarity** and **Solidity**.
