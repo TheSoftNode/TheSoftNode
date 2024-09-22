@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 👀I'm interested in all web and data technologies.
+- 🔥 I'm **Theophilus Uchechukwu**
+  
+- 👀 I'm interested in all web and data technologies.
 
 - 🔭 I’m currently working on a **SaaS project** using **Django**, a **full-stack fundraising app** with **NestJS**, **React**, and **Clarity** smart contract language, and **SoftLearn**, a Learning Management System.
   
